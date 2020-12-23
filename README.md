@@ -2,7 +2,7 @@
 
 This is a very simple text classifier.    
 I used Multinomial naive bayes for this project.    
-Data is from www.mstajbakhsh.ir which is crawled by myself.
+Data is from www.mstajbakhsh.ir which is crawled by me.
 
 # Categories
 Anonymity Networks : 0     
